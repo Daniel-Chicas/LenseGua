@@ -1,0 +1,7 @@
+Capture_samples.py
+create_keypoints.py
+training_model.py
+evaluate_model.py
+
+
+Versión de python: 3.10.4
