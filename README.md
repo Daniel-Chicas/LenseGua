@@ -1,4 +1,4 @@
-# Reconocimiento de Señas con Inteligencia Artificial
+# PROTOTIPO DE UN MÉTODO DE ENSEÑANZA DE LENGUAJE DE SEÑAS BASADO EN INTERACCIONES VIRTUALES UTILIZANDO INTELIGENCIA ARTIFICIAL
 
 Este proyecto implementa un sistema de reconocimiento de lenguaje de señas utilizando visión por computadora e inteligencia artificial. Se compone de varias fases que permiten capturar, procesar, entrenar y evaluar gestos realizados por el usuario.
 
