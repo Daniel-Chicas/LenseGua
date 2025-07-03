@@ -58,3 +58,7 @@ git clone https://github.com/Daniel-Chicas/LenseGua.git
 cd "/LenseGua"
 pip install -r requirements.txt
 ```
+
+👨‍💻 # Autor
+# Daniel Chicas
+# Ingeniería en Ciencias y Sistemas – Universidad de San Carlos de Guatemala
