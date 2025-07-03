@@ -41,21 +41,20 @@ Una vez entrenado el modelo, se puede ejecutar en modo de evaluación. En esta f
 
 Puedes acceder al código fuente completo en el siguiente enlace:
 
-🔗 [https://github.com/tu-usuario/tu-repositorio](https://github.com/tu-usuario/tu-repositorio)  
-_(Reemplaza con el enlace real de tu repositorio)_
+🔗 [https://github.com/tu-usuario/tu-repositorio](https://github.com/Daniel-Chicas/LenseGua.git)  
 
 ---
 
 ## ▶️ Requisitos y Ejecución
 
-- Python 3.8 o superior
+- Python 3.10.4
 - Librerías requeridas: `mediapipe`, `tensorflow`, `opencv-python`, `numpy`, `pyttsx3`, etc.
 - Recomendable utilizar un entorno virtual (`venv` o `conda`)
 
 ### Instalación rápida
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/Daniel-Chicas/LenseGua.git
+cd "/LenseGua"
 pip install -r requirements.txt
 ```
